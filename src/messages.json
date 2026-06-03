@@ -6,5 +6,9 @@
   {
     "name":"Nishi",
     "message":"I'm looking forward to working with you!!"
+  },
+  {
+    "name": "Nagamura",
+    "message": "Pull requests make collaborative development safer and clearer."
   }
 ]
